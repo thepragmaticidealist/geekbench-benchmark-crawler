@@ -1,0 +1,567 @@
+mcscore,scscore,name,modelid,cpu,cpufreq,numcpus,cpucores,cputhreads
+12176,1748,"MacBook Pro (14-inch, 2021)","MacBookPro18,4",Apple M1 Max,3200 MHz,1,10,10
+12228,1747,"MacBook Pro (16-inch, 2021)","MacBookPro18,2",Apple M1 Max,3200 MHz,1,10,10
+12138,1742,"MacBook Pro (16-inch, 2021)","MacBookPro18,1",Apple M1 Pro,3200 MHz,1,10,10
+12002,1739,"MacBook Pro (14-inch, 2021)","MacBookPro18,3",Apple M1 Pro,3200 MHz,1,10,10
+9510,1731,"MacBook Pro (14-inch, 2021)","MacBookPro18,3",Apple M1 Pro,3200 MHz,1,8,8
+7490,1720,iMac (24-inch Mid 2021),"iMac21,2",Apple M1,3200 MHz,1,8,8
+7462,1715,iMac (24-inch Mid 2021),"iMac21,1",Apple M1,3200 MHz,1,8,8
+7431,1713,Mac mini (Late 2020),"Macmini9,1",Apple M1,3200 MHz,1,8,8
+7394,1707,MacBook Pro (13-inch Late 2020),"MacBookPro17,1",Apple M1,3200 MHz,1,8,8
+7416,1705,MacBook Air (Late 2020),"MacBookAir10,1",Apple M1,3200 MHz,1,8,8
+8136,1250,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i7-10700K,3800 MHz,1,8,16
+9027,1242,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i9-10910,3600 MHz,1,10,20
+8216,1232,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i9-9900K,3600 MHz,1,8,16
+4460,1222,MacBook Pro (13-inch Mid 2020),"MacBookPro16,2",Intel Core i7-1068NG7,2300 MHz,1,4,8
+6115,1180,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i5-10600,3300 MHz,1,6,12
+19961,1151,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3275M,2500 MHz,1,28,56
+18192,1135,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3265M,2700 MHz,1,24,48
+4205,1134,MacBook Pro (13-inch Mid 2020),"MacBookPro16,2",Intel Core i5-1038NG7,2000 MHz,1,4,8
+5453,1130,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i5-9600K,3700 MHz,1,6,6
+14638,1119,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3245,3200 MHz,1,16,32
+5867,1119,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i5-10500,3100 MHz,1,6,12
+3017,1118,MacBook Air (Early 2020),"MacBookAir9,1",Intel Core i7-1060NG7,1200 MHz,1,4,8
+9397,1114,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2150B,3000 MHz,1,10,20
+11915,1114,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3235,3300 MHz,1,12,24
+6034,1112,iMac (21.5-inch Retina Early 2019),"iMac19,2",Intel Core i7-8700,3200 MHz,1,6,12
+4442,1105,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i7-7700K,4200 MHz,1,4,8
+5480,1100,Mac mini (Late 2018),"Macmini8,1",Intel Core i7-8700B,3200 MHz,1,6,12
+13429,1089,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2191B,2300 MHz,1,18,36
+4145,1086,MacBook Pro (13-inch Mid 2019),"MacBookPro15,2",Intel Core i7-8569U,2800 MHz,1,4,8
+11054,1084,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2170B,2500 MHz,1,14,28
+6814,1084,MacBook Pro (16-inch Late 2019),"MacBookPro16,1",Intel Core i9-9980HK,2400 MHz,1,8,16
+6460,1075,MacBook Pro (15-inch Mid 2019),"MacBookPro15,3",Intel Core i9-9980HK,2400 MHz,1,8,16
+6460,1075,MacBook Pro (15-inch Mid 2019),"MacBookPro15,1",Intel Core i9-9980HK,2400 MHz,1,8,16
+7982,1064,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2140B,3200 MHz,1,8,16
+6506,1058,MacBook Pro (16-inch Late 2019),"MacBookPro16,1",Intel Core i9-9880H,2300 MHz,1,8,16
+4276,1055,iMac (27-inch Retina Late 2015),"iMac17,1",Intel Core i7-6700K,4000 MHz,1,4,8
+5032,1055,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i5-8600,3100 MHz,1,6,6
+6067,1055,MacBook Pro (15-inch Mid 2019),"MacBookPro15,1",Intel Core i9-9880H,2300 MHz,1,8,16
+2818,1055,MacBook Air (Early 2020),"MacBookAir9,1",Intel Core i5-1030NG7,1100 MHz,1,4,8
+3722,1027,iMac (27-inch Retina),"iMac15,1",Intel Core i7-4790K,4000 MHz,1,4,8
+4974,1027,MacBook Pro (15-inch Mid 2018),"MacBookPro15,1",Intel Core i9-8950HK,2900 MHz,1,6,12
+3794,1016,MacBook Pro (13-inch Mid 2019),"MacBookPro15,4",Intel Core i7-8557U,1700 MHz,1,4,8
+8019,1016,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3223,3500 MHz,1,8,16
+4173,1009,iMac (21.5-inch Retina Mid 2017),"iMac18,2",Intel Core i7-7700,3600 MHz,1,4,8
+3905,1007,MacBook Pro (13-inch Mid 2018),"MacBookPro15,2",Intel Core i7-8559U,2700 MHz,1,4,8
+5277,1005,MacBook Pro (16-inch Late 2019),"MacBookPro16,1",Intel Core i7-9750H,2600 MHz,1,6,12
+4827,1001,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i5-8500,3000 MHz,1,6,6
+4654,998,Mac mini (Late 2018),"Macmini8,1",Intel Core i5-8500B,3000 MHz,1,6,6
+3489,996,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i5-7600K,3800 MHz,1,4,4
+4705,996,iMac (21.5-inch Retina Early 2019),"iMac19,2",Intel Core i5-8500,3000 MHz,1,6,6
+4901,994,MacBook Pro (15-inch Mid 2019),"MacBookPro15,1",Intel Core i7-9750H,2600 MHz,1,6,12
+1941,977,MacBook Air (Early 2020),"MacBookAir9,1",Intel Core i3-1000NG4,1100 MHz,1,2,4
+4744,972,MacBook Pro (15-inch Mid 2018),"MacBookPro15,1",Intel Core i7-8850H,2600 MHz,1,6,12
+3368,967,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i5-7600,3500 MHz,1,4,4
+4659,944,MacBook Pro (15-inch Mid 2018),"MacBookPro15,1",Intel Core i7-8750H,2200 MHz,1,6,12
+3644,942,iMac (21.5-inch Retina Late 2015),"iMac16,2",Intel Core i7-5775R,3300 MHz,1,4,8
+3314,928,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,4",Intel Core i7-4980HQ,2800 MHz,1,4,8
+3314,928,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,5",Intel Core i7-4980HQ,2800 MHz,1,4,8
+3760,926,MacBook Pro (13-inch Mid 2019),"MacBookPro15,2",Intel Core i5-8279U,2400 MHz,1,4,8
+3236,917,MacBook Pro (15-inch Retina Mid 2014),"MacBookPro11,3",Intel Core i7-4980HQ,2800 MHz,1,4,8
+3376,911,iMac (27-inch Late 2013),"iMac14,2",Intel Core i7-4771,3500 MHz,1,4,8
+2886,910,iMac (27-inch Retina),"iMac15,1",Intel Core i5-4690,3500 MHz,1,4,4
+3093,907,iMac (27-inch Retina Late 2015),"iMac17,1",Intel Core i5-6600,3300 MHz,1,4,4
+3160,904,iMac (21.5-inch Retina Mid 2017),"iMac18,2",Intel Core i5-7500,3400 MHz,1,4,4
+3740,904,MacBook Pro (13-inch Mid 2020),"MacBookPro16,3",Intel Core i5-8257U,1400 MHz,1,4,8
+3159,901,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i5-7500,3400 MHz,1,4,4
+2084,901,MacBook Pro (13-inch Mid 2017),"MacBookPro14,2",Intel Core i7-7567U,3500 MHz,1,2,4
+3663,901,MacBook Pro (13-inch Mid 2019),"MacBookPro15,4",Intel Core i5-8257U,1400 MHz,1,4,8
+3040,899,iMac (21.5-inch Retina Late 2015),"iMac16,2",Intel Core i5-5675R,3100 MHz,1,4,4
+3183,897,iMac (21.5-inch Retina Early 2019),"iMac19,2",Intel Core i3-8100,3600 MHz,1,4,4
+3412,894,MacBook Pro (15-inch Mid 2017),"MacBookPro14,3",Intel Core i7-7920HQ,3100 MHz,1,4,8
+3183,894,Mac mini (Late 2018),"Macmini8,1",Intel Core i3-8100B,3600 MHz,1,4,4
+3241,892,iMac (21.5-inch Late 2013),"iMac14,3",Intel Core i7-4770S,3100 MHz,1,4,8
+2818,889,iMac (27-inch Late 2013),"iMac14,2",Intel Core i5-4670,3400 MHz,1,4,4
+3716,874,MacBook Pro (13-inch Mid 2018),"MacBookPro15,2",Intel Core i5-8259U,2300 MHz,1,4,8
+3213,873,MacBook Pro (15-inch Retina Late 2013),"MacBookPro11,3",Intel Core i7-4960HQ,2600 MHz,1,4,8
+3374,868,MacBook Pro (15-inch Mid 2017),"MacBookPro14,3",Intel Core i7-7820HQ,2900 MHz,1,4,8
+3188,863,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,4",Intel Core i7-4870HQ,2500 MHz,1,4,8
+3188,863,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,5",Intel Core i7-4870HQ,2500 MHz,1,4,8
+3159,858,MacBook Pro (15-inch Retina Mid 2014),"MacBookPro11,3",Intel Core i7-4870HQ,2500 MHz,1,4,8
+2004,847,iMac (21.5-inch Mid 2017),"iMac18,1",Intel Core i5-7360U,2300 MHz,1,2,4
+2622,846,iMac (21.5-inch Late 2013),"iMac14,3",Intel Core i5-4570S,2900 MHz,1,4,4
+2895,845,iMac (27-inch Retina Late 2015),"iMac17,1",Intel Core i5-6500,3200 MHz,1,4,4
+2676,842,iMac (27-inch Late 2013),"iMac14,2",Intel Core i5-4570,3200 MHz,1,4,4
+2958,842,iMac (21.5-inch Retina Mid 2017),"iMac18,2",Intel Core i5-7400,3000 MHz,1,4,4
+3314,841,MacBook Pro (15-inch Mid 2017),"MacBookPro14,3",Intel Core i7-7700HQ,2800 MHz,1,4,8
+2886,839,iMac (21.5-inch Late 2015),"iMac16,2",Intel Core i5-5575R,2800 MHz,1,4,4
+3321,836,MacBook Pro (15-inch Late 2016),"MacBookPro13,3",Intel Core i7-6920HQ,2900 MHz,1,4,8
+1947,830,MacBook Pro (13-inch Mid 2017),"MacBookPro14,1",Intel Core i5-7360U,2300 MHz,1,2,4
+5896,826,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-1680 v2,3000 MHz,1,8,16
+3095,820,iMac (27-inch Late 2012),"iMac13,2",Intel Core i7-3770,3400 MHz,1,4,8
+3009,814,iMac (21.5-inch Late 2012),"iMac13,1",Intel Core i7-3770S,3100 MHz,1,4,8
+3096,811,MacBook Pro (15-inch Retina Late 2013),"MacBookPro11,3",Intel Core i7-4850HQ,2300 MHz,1,4,8
+4552,810,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-1650 v2,3500 MHz,1,6,12
+3227,809,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-1620 v2,3700 MHz,1,4,8
+1927,807,MacBook Pro (13-inch Mid 2017),"MacBookPro14,2",Intel Core i5-7267U,3100 MHz,1,2,4
+1663,794,MacBook Pro (13-inch Retina Early 2015),"MacBookPro12,1",Intel Core i7-5557U,3100 MHz,1,2,4
+3057,791,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,4",Intel Core i7-4770HQ,2200 MHz,1,4,8
+3207,791,MacBook Pro (15-inch Late 2016),"MacBookPro13,3",Intel Core i7-6820HQ,2700 MHz,1,4,8
+3009,788,MacBook Pro (15-inch Retina Mid 2014),"MacBookPro11,2",Intel Core i7-4770HQ,2200 MHz,1,4,8
+1611,778,MacBook Pro (13-inch Retina Mid 2014),"MacBookPro11,1",Intel Core i7-4578U,3000 MHz,1,2,4
+2975,769,MacBook Pro (15-inch Mid 2012),"MacBookPro9,1",Intel Core i7-3820QM,2700 MHz,1,4,8
+1633,769,Mac mini (Late 2014),"Macmini7,1",Intel Core i7-4578U,3000 MHz,1,2,4
+3125,765,MacBook Pro (15-inch Late 2016),"MacBookPro13,3",Intel Core i7-6700HQ,2600 MHz,1,4,8
+2586,764,iMac (21.5-inch Late 2013),"iMac14,1",Intel Core i5-4570R,2700 MHz,1,4,4
+1618,759,MacBook Pro (13-inch Retina Early 2015),"MacBookPro12,1",Intel Core i5-5287U,2900 MHz,1,2,4
+2453,757,iMac (27-inch Late 2012),"iMac13,2",Intel Core i5-3470,3200 MHz,1,4,4
+1763,754,MacBook Pro (13-inch Late 2016),"MacBookPro13,2",Intel Core i7-6567U,3300 MHz,1,2,4
+2396,753,iMac (21.5-inch Late 2012),"iMac13,1",Intel Core i5-3470S,2900 MHz,1,4,4
+1742,750,MacBook Pro (13-inch Late 2016),"MacBookPro13,1",Intel Core i7-6660U,2400 MHz,1,2,4
+2770,747,MacBook Pro (15-inch Retina Early 2013),"MacBookPro10,1",Intel Core i7-3840QM,2800 MHz,1,4,8
+2340,745,iMac (27-inch Late 2012),"iMac13,2",Intel Core i5-3470S,2900 MHz,1,4,4
+2900,745,MacBook Pro (15-inch Retina Late 2013),"MacBookPro11,2",Intel Core i7-4750HQ,2000 MHz,1,4,8
+1741,745,MacBook Pro (13-inch Late 2016),"MacBookPro13,2",Intel Core i5-6287U,3100 MHz,1,2,4
+2692,740,MacBook Pro (Retina),"MacBookPro10,1",Intel Core i7-3820QM,2700 MHz,1,4,8
+1538,737,MacBook Air (13-inch Early 2015),"MacBookAir7,2",Intel Core i7-5650U,2200 MHz,1,2,4
+1550,733,MacBook Pro (13-inch Retina Mid 2014),"MacBookPro11,1",Intel Core i5-4308U,2800 MHz,1,2,4
+1438,732,MacBook Air (11-inch Mid 2013),"MacBookAir6,1",Intel Core i7-4650U,1700 MHz,1,2,4
+1577,731,Mac mini (Late 2014),"Macmini7,1",Intel Core i5-4308U,2800 MHz,1,2,4
+1546,729,MacBook Pro (13-inch Retina Late 2013),"MacBookPro11,1",Intel Core i7-4558U,2800 MHz,1,2,4
+6991,728,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-2697 v2,2700 MHz,1,12,24
+1524,728,MacBook Air (11-inch Early 2015),"MacBookAir7,1",Intel Core i7-5650U,2200 MHz,1,2,4
+2708,727,MacBook Pro (15-inch Retina Early 2013),"MacBookPro10,1",Intel Core i7-3740QM,2700 MHz,1,4,8
+1455,727,MacBook Air (Late 2018),"MacBookAir8,1",Intel Core i5-8210Y,1600 MHz,1,2,4
+2804,725,Mac mini (Late 2012),"Macmini6,2",Intel Core i7-3720QM,2600 MHz,1,4,8
+2651,720,iMac (27-inch Mid 2011),"iMac12,2",Intel Core i7-2600,3400 MHz,1,4,8
+2797,717,MacBook Pro (15-inch Mid 2012),"MacBookPro9,1",Intel Core i7-3720QM,2600 MHz,1,4,8
+1541,716,MacBook Pro (13-inch Retina Early 2015),"MacBookPro12,1",Intel Core i5-5257U,2700 MHz,1,2,4
+1399,714,MacBook Air (13-inch Mid 2013),"MacBookAir6,2",Intel Core i7-4650U,1700 MHz,1,2,4
+1470,714,MacBook (Mid 2017),"MacBook10,1",Intel Core i7-7Y75,1400 MHz,1,2,4
+2301,711,iMac (21.5-inch Mid 2011),"iMac12,1",Intel Core i7-2600S,2800 MHz,1,4,8
+2653,711,MacBook Pro (Retina),"MacBookPro10,1",Intel Core i7-3720QM,2600 MHz,1,4,8
+1642,708,MacBook Pro (13-inch Late 2016),"MacBookPro13,2",Intel Core i5-6267U,2900 MHz,1,2,4
+1935,699,iMac (27-inch Mid 2011),"iMac12,2",Intel Core i5-2500S,2700 MHz,1,4,4
+1499,695,Mac mini (Late 2014),"Macmini7,1",Intel Core i5-4278U,2600 MHz,1,2,4
+1585,692,MacBook Pro (13-inch Late 2016),"MacBookPro13,1",Intel Core i5-6360U,2000 MHz,1,2,4
+1472,684,MacBook Pro (13-inch Retina Mid 2014),"MacBookPro11,1",Intel Core i5-4278U,2600 MHz,1,2,4
+1470,682,MacBook Pro (13-inch Retina Early 2013),"MacBookPro10,2",Intel Core i7-3540M,3000 MHz,1,2,4
+2648,682,MacBook Pro (15-inch Retina Early 2013),"MacBookPro10,1",Intel Core i7-3635QM,2400 MHz,1,4,8
+2461,680,MacBook Pro (17-inch Late 2011),"MacBookPro8,3",Intel Core i7-2860QM,2500 MHz,1,4,8
+1476,677,MacBook Pro (13-inch Mid 2012),"MacBookPro9,2",Intel Core i7-3520M,2900 MHz,1,2,4
+1900,676,iMac (21.5-inch Mid 2011),"iMac12,1",Intel Core i5-2500S,2700 MHz,1,4,4
+2149,676,iMac (21.5-inch Late 2012),"iMac13,1",Intel Core i5-3335S,2700 MHz,1,4,4
+1459,672,MacBook (Mid 2017),"MacBook10,1",Intel Core i5-7Y54,1300 MHz,1,2,4
+1449,670,MacBook Pro (13-inch Retina Late 2013),"MacBookPro11,1",Intel Core i5-4288U,2600 MHz,1,2,4
+2618,666,Mac mini (Late 2012),"Macmini6,2",Intel Core i7-3615QM,2300 MHz,1,4,8
+2599,662,MacBook Pro (15-inch Mid 2012),"MacBookPro9,1",Intel Core i7-3615QM,2300 MHz,1,4,8
+2541,661,MacBook Pro (Retina),"MacBookPro10,1",Intel Core i7-3615QM,2300 MHz,1,4,8
+1433,661,MacBook Pro (13-inch Retina),"MacBookPro10,2",Intel Core i7-3520M,2900 MHz,1,2,4
+2120,660,iMac (27-inch Mid 2011),"iMac12,2",Intel Core i5-2400,3100 MHz,1,4,4
+1424,658,MacBook (Mid 2017),"MacBook10,1",Intel Core m3-7Y32,1200 MHz,1,2,4
+1351,654,MacBook Air (Mid 2017),"MacBookAir7,2",Intel Core i5-5350U,1800 MHz,1,2,4
+2308,653,MacBook Pro (17-inch Late 2011),"MacBookPro8,3",Intel Core i7-2760QM,2400 MHz,1,4,8
+3383,642,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon W3680,3330 MHz,1,6,12
+1386,639,MacBook Pro (13-inch Retina Late 2013),"MacBookPro11,1",Intel Core i5-4258U,2400 MHz,1,2,4
+1387,639,MacBook (Early 2016),"MacBook9,1",Intel Core m7-6Y75,1300 MHz,1,2,4
+1837,637,iMac (21.5-inch Mid 2011),"iMac12,1",Intel Core i5-2400S,2500 MHz,1,4,4
+2226,636,MacBook Pro (15-inch Late 2011),"MacBookPro8,2",Intel Core i7-2860QM,2500 MHz,1,4,8
+1306,630,iMac (21.5-inch Late 2015),"iMac16,1",Intel Core i5-5250U,1600 MHz,1,2,4
+1325,613,MacBook Air (11-inch Mid 2012),"MacBookAir5,1",Intel Core i7-3667U,2000 MHz,1,2,4
+5652,612,Mac Pro (Mid 2012),"MacPro5,1",Intel Xeon X5675,3070 MHz,2,12,24
+1266,611,MacBook Air (13-inch Early 2015),"MacBookAir7,2",Intel Core i5-5250U,1600 MHz,1,2,4
+1267,608,MacBook Air (11-inch Early 2015),"MacBookAir7,1",Intel Core i5-5250U,1600 MHz,1,2,4
+2116,606,MacBook Pro (15-inch Late 2011),"MacBookPro8,2",Intel Core i7-2760QM,2400 MHz,1,4,8
+1306,606,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i5-680,3600 MHz,1,2,4
+1231,601,Mac mini (Late 2014),"Macmini7,1",Intel Core i5-4260U,1400 MHz,1,2,4
+1291,600,MacBook Air (13-inch Mid 2012),"MacBookAir5,2",Intel Core i7-3667U,2000 MHz,1,2,4
+1140,598,MacBook (Early 2015),"MacBook8,1",Intel Core M-5Y71,1300 MHz,1,2,4
+1315,597,Mac mini (Mid 2011),"Macmini5,2",Intel Core i7-2620M,2700 MHz,1,2,4
+2156,595,MacBook Pro (17-inch Early 2011),"MacBookPro8,3",Intel Core i7-2820QM,2300 MHz,1,4,8
+2111,594,MacBook Pro (15-inch Early 2011),"MacBookPro8,2",Intel Core i7-2820QM,2300 MHz,1,4,8
+5479,591,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon X5670,2930 MHz,2,12,24
+1244,589,MacBook Pro (13-inch Late 2011),"MacBookPro8,1",Intel Core i7-2640M,2800 MHz,1,2,4
+1280,589,MacBook Pro (13-inch Retina Early 2013),"MacBookPro10,2",Intel Core i5-3230M,2600 MHz,1,2,4
+1175,588,iMac (21.5-inch Mid 2014),"iMac14,4",Intel Core i5-4260U,1400 MHz,1,2,4
+1295,580,MacBook (Early 2016),"MacBook9,1",Intel Core m5-6Y54,1200 MHz,1,2,4
+2062,578,MacBook Pro (17-inch Early 2011),"MacBookPro8,3",Intel Core i7-2720QM,2200 MHz,1,4,8
+1262,578,MacBook Pro (13-inch Mid 2012),"MacBookPro9,2",Intel Core i5-3210M,2500 MHz,1,2,4
+1185,574,MacBook Air (11-inch Early 2014),"MacBookAir6,1",Intel Core i5-4260U,1400 MHz,1,2,4
+2147,573,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon W3565,3200 MHz,1,4,8
+1276,571,Mac mini (Late 2012),"Macmini6,1",Intel Core i5-3210M,2500 MHz,1,2,4
+1242,571,MacBook Pro (13-inch Retina),"MacBookPro10,2",Intel Core i5-3210M,2500 MHz,1,2,4
+1174,571,MacBook Air (13-inch Early 2014),"MacBookAir6,2",Intel Core i5-4260U,1400 MHz,1,2,4
+1207,568,MacBook Pro (13-inch Early 2011),"MacBookPro8,1",Intel Core i7-2620M,2700 MHz,1,2,4
+1234,568,iMac (21.5 inch Late 2011),"iMac12,1",Intel Core i3-2100,3100 MHz,1,2,4
+4063,567,Xserve (Early 2009),"Xserve3,1",Intel Xeon X5570,2930 MHz,2,8,16
+1261,564,Mac mini (Mid 2011),"Macmini5,2",Intel Core i5-2520M,2500 MHz,1,2,4
+2070,560,MacBook Pro (15-inch Late 2011),"MacBookPro8,2",Intel Core i7-2675QM,2200 MHz,1,4,8
+3938,557,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon X5570,2930 MHz,2,8,16
+1201,556,iMac (21.5-inch Mid 2010),"iMac11,2",Intel Core i5-680,3600 MHz,1,2,4
+1145,556,MacBook Air (11-inch Mid 2013),"MacBookAir6,1",Intel Core i5-4250U,1300 MHz,1,2,4
+1141,554,MacBook Air (13-inch Mid 2013),"MacBookAir6,2",Intel Core i5-4250U,1300 MHz,1,2,4
+1110,550,MacBook (Early 2015),"MacBook8,1",Intel Core M-5Y51,1200 MHz,1,2,4
+5195,545,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon X5650,2670 MHz,2,12,24
+1968,543,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i7-870,2930 MHz,1,4,8
+1875,541,Mac mini (Mid 2011),"Macmini5,3",Intel Core i7-2635QM,2000 MHz,1,4,8
+1920,539,MacBook Pro (15-inch Early 2011),"MacBookPro8,2",Intel Core i7-2720QM,2200 MHz,1,4,8
+3730,524,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon X5550,2670 MHz,2,8,16
+2019,522,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon W3540,2930 MHz,1,4,8
+1035,522,MacBook (Early 2015),"MacBook8,1",Intel Core M-5Y31,1100 MHz,1,2,4
+1130,517,MacBook Air (13-inch Mid 2012),"MacBookAir5,2",Intel Core i5-3427U,1800 MHz,1,2,4
+1576,514,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i5-760,2800 MHz,1,4,4
+1958,513,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon W3530,2800 MHz,1,4,8
+1889,506,MacBook Pro (15-inch Early 2011),"MacBookPro8,2",Intel Core i7-2635QM,2000 MHz,1,4,8
+1097,506,MacBook Pro (13-inch Late 2011),"MacBookPro8,1",Intel Core i5-2435M,2400 MHz,1,2,4
+1129,505,Mac mini (Mid 2011),"Macmini5,1",Intel Core i5-2415M,2300 MHz,1,2,4
+1036,499,MacBook Pro (17-inch Early 2010),"MacBookPro6,1",Intel Core i7-640M,2800 MHz,1,2,4
+1088,496,MacBook Air (11-inch Mid 2012),"MacBookAir5,1",Intel Core i5-3317U,1700 MHz,1,2,4
+1025,493,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i7-640M,2800 MHz,1,2,4
+1862,493,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon W3520,2670 MHz,1,4,8
+4615,492,Mac Pro (Mid 2012),"MacPro5,1",Intel Xeon E5645,2400 MHz,2,12,24
+1748,490,iMac (27-inch Late 2009),"iMac11,1",Intel Core i7-860,2800 MHz,1,4,8
+1002,489,MacBook Air (11-inch Mid 2011),"MacBookAir4,1",Intel Core i7-2677M,1800 MHz,1,2,4
+1101,487,MacBook (Early 2016),"MacBook9,1",Intel Core m3-6Y30,1100 MHz,1,2,4
+1483,486,iMac (27-inch Late 2009),"iMac11,1",Intel Core i5-750,2670 MHz,1,4,4
+1057,483,MacBook Pro (13-inch Early 2011),"MacBookPro8,1",Intel Core i5-2415M,2300 MHz,1,2,4
+1049,478,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i3-550,3200 MHz,1,2,4
+3445,477,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon E5620,2400 MHz,2,8,16
+1019,476,MacBook Pro (17-inch Early 2010),"MacBookPro6,1",Intel Core i7-620M,2670 MHz,1,2,4
+1042,474,iMac (21.5-inch Mid 2010),"iMac11,2",Intel Core i3-550,3200 MHz,1,2,4
+965,470,MacBook Air (13-inch Mid 2011),"MacBookAir4,2",Intel Core i7-2677M,1800 MHz,1,2,4
+1010,461,iMac (21.5-inch Mid 2010),"iMac11,2",Intel Core i3-540,3070 MHz,1,2,4
+2546,459,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon X5482,3200 MHz,2,8,8
+795,455,iMac (Late 2009),"iMac10,1",Intel Core 2 Duo E8600,3330 MHz,1,2,2
+962,452,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i7-620M,2670 MHz,1,2,4
+942,451,MacBook Air (13-inch Mid 2011),"MacBookAir4,2",Intel Core i5-2557M,1700 MHz,1,2,4
+1754,447,Xserve (Early 2009),"Xserve3,1",Intel Xeon E5520,2270 MHz,1,4,8
+2520,438,Xserve (Early 2008),"Xserve2,1",Intel Xeon E5472,3000 MHz,2,8,8
+2492,436,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon E5472,3000 MHz,2,8,8
+3117,433,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon E5520,2270 MHz,2,8,16
+2403,432,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon X5472,3000 MHz,2,8,8
+3227,432,Xserve (Early 2009),"Xserve3,1",Intel Xeon E5520,2270 MHz,2,8,16
+921,427,MacBook Pro (17-inch Early 2010),"MacBookPro6,1",Intel Core i5-540M,2530 MHz,1,2,4
+921,425,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i5-540M,2530 MHz,1,2,4
+729,418,iMac (Early 2009),"iMac9,1",Intel Core 2 Duo E8435,3060 MHz,1,2,2
+748,414,iMac (Early 2008),"iMac8,1",Intel Core 2 Duo E8435,3060 MHz,1,2,2
+719,412,MacBook Pro (17-inch Early 2009),"MacBookPro5,2",Intel Core 2 Duo T9800,2930 MHz,1,2,2
+880,410,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i5-520M,2400 MHz,1,2,4
+2267,407,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon E5462,2800 MHz,2,8,8
+670,402,MacBook Pro (17-inch Mid 2009),"MacBookPro5,2",Intel Core 2 Duo T9900,3060 MHz,1,2,2
+1245,402,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon E5462,2800 MHz,1,4,4
+690,397,MacBook Pro (15-inch Mid 2009),"MacBookPro5,3",Intel Core 2 Duo T9900,3060 MHz,1,2,2
+661,386,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9800,2930 MHz,1,2,2
+671,380,iMac (Late 2009),"iMac10,1",Intel Core 2 Duo E7600,3060 MHz,1,2,2
+660,379,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9600,2800 MHz,1,2,2
+797,375,MacBook Air (11-inch Mid 2011),"MacBookAir4,1",Intel Core i5-2467M,1601 MHz,1,2,4
+649,373,MacBook Pro (17-inch Mid 2009),"MacBookPro5,2",Intel Core 2 Duo T9600,2800 MHz,1,2,2
+655,372,iMac (Early 2009),"iMac9,1",Intel Core 2 Duo E8335,2930 MHz,1,2,2
+638,364,iMac (Early 2009),"iMac9,1",Intel Core 2 Duo E8135,2660 MHz,1,2,2
+623,357,MacBook Pro (15-inch Mid 2009),"MacBookPro5,3",Intel Core 2 Duo T9600,2800 MHz,1,2,2
+639,353,MacBook Pro (17-inch Early 2009),"MacBookPro5,2",Intel Core 2 Duo T9550,2660 MHz,1,2,2
+600,349,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9550,2660 MHz,1,2,2
+615,349,iMac (Early 2008),"iMac8,1",Intel Core 2 Duo E8235,2800 MHz,1,2,2
+578,342,MacBook Pro (15-inch Mid 2009),"MacBookPro5,3",Intel Core 2 Duo P8800,2660 MHz,1,2,2
+582,335,MacBook Pro (13-inch Early 2010),"MacBookPro7,1",Intel Core 2 Duo P8800,2660 MHz,1,2,2
+566,325,Mac mini (Early 2010),"Macmini4,1",Intel Core 2 Duo P8800,2660 MHz,1,2,2
+561,324,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9400,2530 MHz,1,2,2
+531,323,MacBook Pro (Early 2008),"MacBookPro4,1",Intel Core 2 Duo T9500,2600 MHz,1,2,2
+566,323,MacBook Pro (13-inch Mid 2009),"MacBookPro5,5",Intel Core 2 Duo P8700,2530 MHz,1,2,2
+558,321,Mac mini (Late 2009),"Macmini3,1",Intel Core 2 Duo P8700,2530 MHz,1,2,2
+557,315,MacBook Pro (15-inch Mid 2009),"MacBookPro5,4",Intel Core 2 Duo P8700,2530 MHz,1,2,2
+543,313,MacBook Pro (13-inch Mid 2009),"MacBookPro5,5",Intel Core 2 Duo P8400,2260 MHz,1,2,2
+550,312,Mac mini (Late 2009),"Macmini3,1",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+574,312,Mac mini (Early 2009),"Macmini3,1",Intel Core 2 Duo P8400,2260 MHz,1,2,2
+556,311,iMac (Mid 2009),"iMac9,1",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+540,308,MacBook (Mid 2010),"MacBook7,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+542,307,MacBook (Late 2008),"MacBook5,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+560,307,MacBook Pro (Early 2008),"MacBookPro4,1",Intel Core 2 Duo T9300,2500 MHz,1,2,2
+534,307,MacBook Pro (13-inch Early 2010),"MacBookPro7,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+536,306,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+521,297,MacBook Pro (13-inch Mid 2009),"MacBookPro5,5",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+517,295,MacBook (Late 2009),"MacBook6,1",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+503,294,Mac mini (Early 2010),"Macmini4,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+490,282,MacBook Air (13-inch Late 2010),"MacBookAir3,2",Intel Core 2 Duo L9600,2130 MHz,1,2,2
+477,279,MacBook (Early 2009),"MacBook5,2",Intel Core 2 Duo P7450,2130 MHz,1,2,2
+467,266,MacBook (Late 2008),"MacBook5,1",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+473,266,iMac (Mid 2009),"iMac9,1",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+449,265,Mac mini (Early 2009),"Macmini3,1",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+475,263,MacBook Pro (Early 2008),"MacBookPro4,1",Intel Core 2 Duo T8300,2400 MHz,1,2,2
+456,257,MacBook Air (13-inch Late 2010),"MacBookAir3,2",Intel Core 2 Duo L9400,1860 MHz,1,2,2
+422,239,MacBook (Early 2009),"MacBook5,2",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+373,217,MacBook Air (11-inch Late 2010),"MacBookAir3,1",Intel Core 2 Duo U9600,1600 MHz,1,2,2
+332,188,MacBook Air (11-inch Late 2010),"MacBookAir3,1",Intel Core 2 Duo U9400,1400 MHz,1,2,2
+19961,1151,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3275M,2500 MHz,1,28,56
+18192,1135,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3265M,2700 MHz,1,24,48
+14638,1119,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3245,3200 MHz,1,16,32
+13429,1089,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2191B,2300 MHz,1,18,36
+12228,1747,"MacBook Pro (16-inch, 2021)","MacBookPro18,2",Apple M1 Max,3200 MHz,1,10,10
+12176,1748,"MacBook Pro (14-inch, 2021)","MacBookPro18,4",Apple M1 Max,3200 MHz,1,10,10
+12138,1742,"MacBook Pro (16-inch, 2021)","MacBookPro18,1",Apple M1 Pro,3200 MHz,1,10,10
+12002,1739,"MacBook Pro (14-inch, 2021)","MacBookPro18,3",Apple M1 Pro,3200 MHz,1,10,10
+11915,1114,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3235,3300 MHz,1,12,24
+11054,1084,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2170B,2500 MHz,1,14,28
+9510,1731,"MacBook Pro (14-inch, 2021)","MacBookPro18,3",Apple M1 Pro,3200 MHz,1,8,8
+9397,1114,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2150B,3000 MHz,1,10,20
+9027,1242,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i9-10910,3600 MHz,1,10,20
+8216,1232,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i9-9900K,3600 MHz,1,8,16
+8136,1250,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i7-10700K,3800 MHz,1,8,16
+8019,1016,Mac Pro (Late 2019),"MacPro7,1",Intel Xeon W-3223,3500 MHz,1,8,16
+7982,1064,iMac Pro (Late 2017),"iMacPro1,1",Intel Xeon W-2140B,3200 MHz,1,8,16
+7490,1720,iMac (24-inch Mid 2021),"iMac21,2",Apple M1,3200 MHz,1,8,8
+7462,1715,iMac (24-inch Mid 2021),"iMac21,1",Apple M1,3200 MHz,1,8,8
+7431,1713,Mac mini (Late 2020),"Macmini9,1",Apple M1,3200 MHz,1,8,8
+7416,1705,MacBook Air (Late 2020),"MacBookAir10,1",Apple M1,3200 MHz,1,8,8
+7394,1707,MacBook Pro (13-inch Late 2020),"MacBookPro17,1",Apple M1,3200 MHz,1,8,8
+6991,728,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-2697 v2,2700 MHz,1,12,24
+6814,1084,MacBook Pro (16-inch Late 2019),"MacBookPro16,1",Intel Core i9-9980HK,2400 MHz,1,8,16
+6506,1058,MacBook Pro (16-inch Late 2019),"MacBookPro16,1",Intel Core i9-9880H,2300 MHz,1,8,16
+6460,1075,MacBook Pro (15-inch Mid 2019),"MacBookPro15,3",Intel Core i9-9980HK,2400 MHz,1,8,16
+6460,1075,MacBook Pro (15-inch Mid 2019),"MacBookPro15,1",Intel Core i9-9980HK,2400 MHz,1,8,16
+6115,1180,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i5-10600,3300 MHz,1,6,12
+6067,1055,MacBook Pro (15-inch Mid 2019),"MacBookPro15,1",Intel Core i9-9880H,2300 MHz,1,8,16
+6034,1112,iMac (21.5-inch Retina Early 2019),"iMac19,2",Intel Core i7-8700,3200 MHz,1,6,12
+5896,826,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-1680 v2,3000 MHz,1,8,16
+5867,1119,iMac (27-inch Retina Mid 2020),"iMac20,1",Intel Core i5-10500,3100 MHz,1,6,12
+5652,612,Mac Pro (Mid 2012),"MacPro5,1",Intel Xeon X5675,3070 MHz,2,12,24
+5480,1100,Mac mini (Late 2018),"Macmini8,1",Intel Core i7-8700B,3200 MHz,1,6,12
+5479,591,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon X5670,2930 MHz,2,12,24
+5453,1130,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i5-9600K,3700 MHz,1,6,6
+5277,1005,MacBook Pro (16-inch Late 2019),"MacBookPro16,1",Intel Core i7-9750H,2600 MHz,1,6,12
+5195,545,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon X5650,2670 MHz,2,12,24
+5032,1055,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i5-8600,3100 MHz,1,6,6
+4974,1027,MacBook Pro (15-inch Mid 2018),"MacBookPro15,1",Intel Core i9-8950HK,2900 MHz,1,6,12
+4901,994,MacBook Pro (15-inch Mid 2019),"MacBookPro15,1",Intel Core i7-9750H,2600 MHz,1,6,12
+4827,1001,iMac (27-inch Retina Early 2019),"iMac19,1",Intel Core i5-8500,3000 MHz,1,6,6
+4744,972,MacBook Pro (15-inch Mid 2018),"MacBookPro15,1",Intel Core i7-8850H,2600 MHz,1,6,12
+4705,996,iMac (21.5-inch Retina Early 2019),"iMac19,2",Intel Core i5-8500,3000 MHz,1,6,6
+4659,944,MacBook Pro (15-inch Mid 2018),"MacBookPro15,1",Intel Core i7-8750H,2200 MHz,1,6,12
+4654,998,Mac mini (Late 2018),"Macmini8,1",Intel Core i5-8500B,3000 MHz,1,6,6
+4615,492,Mac Pro (Mid 2012),"MacPro5,1",Intel Xeon E5645,2400 MHz,2,12,24
+4552,810,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-1650 v2,3500 MHz,1,6,12
+4460,1222,MacBook Pro (13-inch Mid 2020),"MacBookPro16,2",Intel Core i7-1068NG7,2300 MHz,1,4,8
+4442,1105,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i7-7700K,4200 MHz,1,4,8
+4276,1055,iMac (27-inch Retina Late 2015),"iMac17,1",Intel Core i7-6700K,4000 MHz,1,4,8
+4205,1134,MacBook Pro (13-inch Mid 2020),"MacBookPro16,2",Intel Core i5-1038NG7,2000 MHz,1,4,8
+4173,1009,iMac (21.5-inch Retina Mid 2017),"iMac18,2",Intel Core i7-7700,3600 MHz,1,4,8
+4145,1086,MacBook Pro (13-inch Mid 2019),"MacBookPro15,2",Intel Core i7-8569U,2800 MHz,1,4,8
+4063,567,Xserve (Early 2009),"Xserve3,1",Intel Xeon X5570,2930 MHz,2,8,16
+3938,557,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon X5570,2930 MHz,2,8,16
+3905,1007,MacBook Pro (13-inch Mid 2018),"MacBookPro15,2",Intel Core i7-8559U,2700 MHz,1,4,8
+3794,1016,MacBook Pro (13-inch Mid 2019),"MacBookPro15,4",Intel Core i7-8557U,1700 MHz,1,4,8
+3760,926,MacBook Pro (13-inch Mid 2019),"MacBookPro15,2",Intel Core i5-8279U,2400 MHz,1,4,8
+3740,904,MacBook Pro (13-inch Mid 2020),"MacBookPro16,3",Intel Core i5-8257U,1400 MHz,1,4,8
+3730,524,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon X5550,2670 MHz,2,8,16
+3722,1027,iMac (27-inch Retina),"iMac15,1",Intel Core i7-4790K,4000 MHz,1,4,8
+3716,874,MacBook Pro (13-inch Mid 2018),"MacBookPro15,2",Intel Core i5-8259U,2300 MHz,1,4,8
+3663,901,MacBook Pro (13-inch Mid 2019),"MacBookPro15,4",Intel Core i5-8257U,1400 MHz,1,4,8
+3644,942,iMac (21.5-inch Retina Late 2015),"iMac16,2",Intel Core i7-5775R,3300 MHz,1,4,8
+3489,996,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i5-7600K,3800 MHz,1,4,4
+3445,477,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon E5620,2400 MHz,2,8,16
+3412,894,MacBook Pro (15-inch Mid 2017),"MacBookPro14,3",Intel Core i7-7920HQ,3100 MHz,1,4,8
+3383,642,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon W3680,3330 MHz,1,6,12
+3376,911,iMac (27-inch Late 2013),"iMac14,2",Intel Core i7-4771,3500 MHz,1,4,8
+3374,868,MacBook Pro (15-inch Mid 2017),"MacBookPro14,3",Intel Core i7-7820HQ,2900 MHz,1,4,8
+3368,967,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i5-7600,3500 MHz,1,4,4
+3321,836,MacBook Pro (15-inch Late 2016),"MacBookPro13,3",Intel Core i7-6920HQ,2900 MHz,1,4,8
+3314,928,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,4",Intel Core i7-4980HQ,2800 MHz,1,4,8
+3314,928,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,5",Intel Core i7-4980HQ,2800 MHz,1,4,8
+3314,841,MacBook Pro (15-inch Mid 2017),"MacBookPro14,3",Intel Core i7-7700HQ,2800 MHz,1,4,8
+3241,892,iMac (21.5-inch Late 2013),"iMac14,3",Intel Core i7-4770S,3100 MHz,1,4,8
+3236,917,MacBook Pro (15-inch Retina Mid 2014),"MacBookPro11,3",Intel Core i7-4980HQ,2800 MHz,1,4,8
+3227,432,Xserve (Early 2009),"Xserve3,1",Intel Xeon E5520,2270 MHz,2,8,16
+3227,809,Mac Pro (Late 2013),"MacPro6,1",Intel Xeon E5-1620 v2,3700 MHz,1,4,8
+3213,873,MacBook Pro (15-inch Retina Late 2013),"MacBookPro11,3",Intel Core i7-4960HQ,2600 MHz,1,4,8
+3207,791,MacBook Pro (15-inch Late 2016),"MacBookPro13,3",Intel Core i7-6820HQ,2700 MHz,1,4,8
+3188,863,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,4",Intel Core i7-4870HQ,2500 MHz,1,4,8
+3188,863,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,5",Intel Core i7-4870HQ,2500 MHz,1,4,8
+3183,894,Mac mini (Late 2018),"Macmini8,1",Intel Core i3-8100B,3600 MHz,1,4,4
+3183,897,iMac (21.5-inch Retina Early 2019),"iMac19,2",Intel Core i3-8100,3600 MHz,1,4,4
+3160,904,iMac (21.5-inch Retina Mid 2017),"iMac18,2",Intel Core i5-7500,3400 MHz,1,4,4
+3159,858,MacBook Pro (15-inch Retina Mid 2014),"MacBookPro11,3",Intel Core i7-4870HQ,2500 MHz,1,4,8
+3159,901,iMac (27-inch Retina Mid 2017),"iMac18,3",Intel Core i5-7500,3400 MHz,1,4,4
+3125,765,MacBook Pro (15-inch Late 2016),"MacBookPro13,3",Intel Core i7-6700HQ,2600 MHz,1,4,8
+3117,433,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon E5520,2270 MHz,2,8,16
+3096,811,MacBook Pro (15-inch Retina Late 2013),"MacBookPro11,3",Intel Core i7-4850HQ,2300 MHz,1,4,8
+3095,820,iMac (27-inch Late 2012),"iMac13,2",Intel Core i7-3770,3400 MHz,1,4,8
+3093,907,iMac (27-inch Retina Late 2015),"iMac17,1",Intel Core i5-6600,3300 MHz,1,4,4
+3057,791,MacBook Pro (15-inch Retina Mid 2015),"MacBookPro11,4",Intel Core i7-4770HQ,2200 MHz,1,4,8
+3040,899,iMac (21.5-inch Retina Late 2015),"iMac16,2",Intel Core i5-5675R,3100 MHz,1,4,4
+3017,1118,MacBook Air (Early 2020),"MacBookAir9,1",Intel Core i7-1060NG7,1200 MHz,1,4,8
+3009,814,iMac (21.5-inch Late 2012),"iMac13,1",Intel Core i7-3770S,3100 MHz,1,4,8
+3009,788,MacBook Pro (15-inch Retina Mid 2014),"MacBookPro11,2",Intel Core i7-4770HQ,2200 MHz,1,4,8
+2975,769,MacBook Pro (15-inch Mid 2012),"MacBookPro9,1",Intel Core i7-3820QM,2700 MHz,1,4,8
+2958,842,iMac (21.5-inch Retina Mid 2017),"iMac18,2",Intel Core i5-7400,3000 MHz,1,4,4
+2900,745,MacBook Pro (15-inch Retina Late 2013),"MacBookPro11,2",Intel Core i7-4750HQ,2000 MHz,1,4,8
+2895,845,iMac (27-inch Retina Late 2015),"iMac17,1",Intel Core i5-6500,3200 MHz,1,4,4
+2886,910,iMac (27-inch Retina),"iMac15,1",Intel Core i5-4690,3500 MHz,1,4,4
+2886,839,iMac (21.5-inch Late 2015),"iMac16,2",Intel Core i5-5575R,2800 MHz,1,4,4
+2818,889,iMac (27-inch Late 2013),"iMac14,2",Intel Core i5-4670,3400 MHz,1,4,4
+2818,1055,MacBook Air (Early 2020),"MacBookAir9,1",Intel Core i5-1030NG7,1100 MHz,1,4,8
+2804,725,Mac mini (Late 2012),"Macmini6,2",Intel Core i7-3720QM,2600 MHz,1,4,8
+2797,717,MacBook Pro (15-inch Mid 2012),"MacBookPro9,1",Intel Core i7-3720QM,2600 MHz,1,4,8
+2770,747,MacBook Pro (15-inch Retina Early 2013),"MacBookPro10,1",Intel Core i7-3840QM,2800 MHz,1,4,8
+2708,727,MacBook Pro (15-inch Retina Early 2013),"MacBookPro10,1",Intel Core i7-3740QM,2700 MHz,1,4,8
+2692,740,MacBook Pro (Retina),"MacBookPro10,1",Intel Core i7-3820QM,2700 MHz,1,4,8
+2676,842,iMac (27-inch Late 2013),"iMac14,2",Intel Core i5-4570,3200 MHz,1,4,4
+2653,711,MacBook Pro (Retina),"MacBookPro10,1",Intel Core i7-3720QM,2600 MHz,1,4,8
+2651,720,iMac (27-inch Mid 2011),"iMac12,2",Intel Core i7-2600,3400 MHz,1,4,8
+2648,682,MacBook Pro (15-inch Retina Early 2013),"MacBookPro10,1",Intel Core i7-3635QM,2400 MHz,1,4,8
+2622,846,iMac (21.5-inch Late 2013),"iMac14,3",Intel Core i5-4570S,2900 MHz,1,4,4
+2618,666,Mac mini (Late 2012),"Macmini6,2",Intel Core i7-3615QM,2300 MHz,1,4,8
+2599,662,MacBook Pro (15-inch Mid 2012),"MacBookPro9,1",Intel Core i7-3615QM,2300 MHz,1,4,8
+2586,764,iMac (21.5-inch Late 2013),"iMac14,1",Intel Core i5-4570R,2700 MHz,1,4,4
+2546,459,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon X5482,3200 MHz,2,8,8
+2541,661,MacBook Pro (Retina),"MacBookPro10,1",Intel Core i7-3615QM,2300 MHz,1,4,8
+2520,438,Xserve (Early 2008),"Xserve2,1",Intel Xeon E5472,3000 MHz,2,8,8
+2492,436,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon E5472,3000 MHz,2,8,8
+2461,680,MacBook Pro (17-inch Late 2011),"MacBookPro8,3",Intel Core i7-2860QM,2500 MHz,1,4,8
+2453,757,iMac (27-inch Late 2012),"iMac13,2",Intel Core i5-3470,3200 MHz,1,4,4
+2403,432,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon X5472,3000 MHz,2,8,8
+2396,753,iMac (21.5-inch Late 2012),"iMac13,1",Intel Core i5-3470S,2900 MHz,1,4,4
+2340,745,iMac (27-inch Late 2012),"iMac13,2",Intel Core i5-3470S,2900 MHz,1,4,4
+2308,653,MacBook Pro (17-inch Late 2011),"MacBookPro8,3",Intel Core i7-2760QM,2400 MHz,1,4,8
+2301,711,iMac (21.5-inch Mid 2011),"iMac12,1",Intel Core i7-2600S,2800 MHz,1,4,8
+2267,407,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon E5462,2800 MHz,2,8,8
+2226,636,MacBook Pro (15-inch Late 2011),"MacBookPro8,2",Intel Core i7-2860QM,2500 MHz,1,4,8
+2156,595,MacBook Pro (17-inch Early 2011),"MacBookPro8,3",Intel Core i7-2820QM,2300 MHz,1,4,8
+2149,676,iMac (21.5-inch Late 2012),"iMac13,1",Intel Core i5-3335S,2700 MHz,1,4,4
+2147,573,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon W3565,3200 MHz,1,4,8
+2120,660,iMac (27-inch Mid 2011),"iMac12,2",Intel Core i5-2400,3100 MHz,1,4,4
+2116,606,MacBook Pro (15-inch Late 2011),"MacBookPro8,2",Intel Core i7-2760QM,2400 MHz,1,4,8
+2111,594,MacBook Pro (15-inch Early 2011),"MacBookPro8,2",Intel Core i7-2820QM,2300 MHz,1,4,8
+2084,901,MacBook Pro (13-inch Mid 2017),"MacBookPro14,2",Intel Core i7-7567U,3500 MHz,1,2,4
+2070,560,MacBook Pro (15-inch Late 2011),"MacBookPro8,2",Intel Core i7-2675QM,2200 MHz,1,4,8
+2062,578,MacBook Pro (17-inch Early 2011),"MacBookPro8,3",Intel Core i7-2720QM,2200 MHz,1,4,8
+2019,522,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon W3540,2930 MHz,1,4,8
+2004,847,iMac (21.5-inch Mid 2017),"iMac18,1",Intel Core i5-7360U,2300 MHz,1,2,4
+1968,543,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i7-870,2930 MHz,1,4,8
+1958,513,Mac Pro (Mid 2010),"MacPro5,1",Intel Xeon W3530,2800 MHz,1,4,8
+1947,830,MacBook Pro (13-inch Mid 2017),"MacBookPro14,1",Intel Core i5-7360U,2300 MHz,1,2,4
+1941,977,MacBook Air (Early 2020),"MacBookAir9,1",Intel Core i3-1000NG4,1100 MHz,1,2,4
+1935,699,iMac (27-inch Mid 2011),"iMac12,2",Intel Core i5-2500S,2700 MHz,1,4,4
+1927,807,MacBook Pro (13-inch Mid 2017),"MacBookPro14,2",Intel Core i5-7267U,3100 MHz,1,2,4
+1920,539,MacBook Pro (15-inch Early 2011),"MacBookPro8,2",Intel Core i7-2720QM,2200 MHz,1,4,8
+1900,676,iMac (21.5-inch Mid 2011),"iMac12,1",Intel Core i5-2500S,2700 MHz,1,4,4
+1889,506,MacBook Pro (15-inch Early 2011),"MacBookPro8,2",Intel Core i7-2635QM,2000 MHz,1,4,8
+1875,541,Mac mini (Mid 2011),"Macmini5,3",Intel Core i7-2635QM,2000 MHz,1,4,8
+1862,493,Mac Pro (Early 2009),"MacPro4,1",Intel Xeon W3520,2670 MHz,1,4,8
+1837,637,iMac (21.5-inch Mid 2011),"iMac12,1",Intel Core i5-2400S,2500 MHz,1,4,4
+1763,754,MacBook Pro (13-inch Late 2016),"MacBookPro13,2",Intel Core i7-6567U,3300 MHz,1,2,4
+1754,447,Xserve (Early 2009),"Xserve3,1",Intel Xeon E5520,2270 MHz,1,4,8
+1748,490,iMac (27-inch Late 2009),"iMac11,1",Intel Core i7-860,2800 MHz,1,4,8
+1742,750,MacBook Pro (13-inch Late 2016),"MacBookPro13,1",Intel Core i7-6660U,2400 MHz,1,2,4
+1741,745,MacBook Pro (13-inch Late 2016),"MacBookPro13,2",Intel Core i5-6287U,3100 MHz,1,2,4
+1663,794,MacBook Pro (13-inch Retina Early 2015),"MacBookPro12,1",Intel Core i7-5557U,3100 MHz,1,2,4
+1642,708,MacBook Pro (13-inch Late 2016),"MacBookPro13,2",Intel Core i5-6267U,2900 MHz,1,2,4
+1633,769,Mac mini (Late 2014),"Macmini7,1",Intel Core i7-4578U,3000 MHz,1,2,4
+1618,759,MacBook Pro (13-inch Retina Early 2015),"MacBookPro12,1",Intel Core i5-5287U,2900 MHz,1,2,4
+1611,778,MacBook Pro (13-inch Retina Mid 2014),"MacBookPro11,1",Intel Core i7-4578U,3000 MHz,1,2,4
+1585,692,MacBook Pro (13-inch Late 2016),"MacBookPro13,1",Intel Core i5-6360U,2000 MHz,1,2,4
+1577,731,Mac mini (Late 2014),"Macmini7,1",Intel Core i5-4308U,2800 MHz,1,2,4
+1576,514,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i5-760,2800 MHz,1,4,4
+1550,733,MacBook Pro (13-inch Retina Mid 2014),"MacBookPro11,1",Intel Core i5-4308U,2800 MHz,1,2,4
+1546,729,MacBook Pro (13-inch Retina Late 2013),"MacBookPro11,1",Intel Core i7-4558U,2800 MHz,1,2,4
+1541,716,MacBook Pro (13-inch Retina Early 2015),"MacBookPro12,1",Intel Core i5-5257U,2700 MHz,1,2,4
+1538,737,MacBook Air (13-inch Early 2015),"MacBookAir7,2",Intel Core i7-5650U,2200 MHz,1,2,4
+1524,728,MacBook Air (11-inch Early 2015),"MacBookAir7,1",Intel Core i7-5650U,2200 MHz,1,2,4
+1499,695,Mac mini (Late 2014),"Macmini7,1",Intel Core i5-4278U,2600 MHz,1,2,4
+1483,486,iMac (27-inch Late 2009),"iMac11,1",Intel Core i5-750,2670 MHz,1,4,4
+1476,677,MacBook Pro (13-inch Mid 2012),"MacBookPro9,2",Intel Core i7-3520M,2900 MHz,1,2,4
+1472,684,MacBook Pro (13-inch Retina Mid 2014),"MacBookPro11,1",Intel Core i5-4278U,2600 MHz,1,2,4
+1470,682,MacBook Pro (13-inch Retina Early 2013),"MacBookPro10,2",Intel Core i7-3540M,3000 MHz,1,2,4
+1470,714,MacBook (Mid 2017),"MacBook10,1",Intel Core i7-7Y75,1400 MHz,1,2,4
+1459,672,MacBook (Mid 2017),"MacBook10,1",Intel Core i5-7Y54,1300 MHz,1,2,4
+1455,727,MacBook Air (Late 2018),"MacBookAir8,1",Intel Core i5-8210Y,1600 MHz,1,2,4
+1449,670,MacBook Pro (13-inch Retina Late 2013),"MacBookPro11,1",Intel Core i5-4288U,2600 MHz,1,2,4
+1438,732,MacBook Air (11-inch Mid 2013),"MacBookAir6,1",Intel Core i7-4650U,1700 MHz,1,2,4
+1433,661,MacBook Pro (13-inch Retina),"MacBookPro10,2",Intel Core i7-3520M,2900 MHz,1,2,4
+1424,658,MacBook (Mid 2017),"MacBook10,1",Intel Core m3-7Y32,1200 MHz,1,2,4
+1399,714,MacBook Air (13-inch Mid 2013),"MacBookAir6,2",Intel Core i7-4650U,1700 MHz,1,2,4
+1387,639,MacBook (Early 2016),"MacBook9,1",Intel Core m7-6Y75,1300 MHz,1,2,4
+1386,639,MacBook Pro (13-inch Retina Late 2013),"MacBookPro11,1",Intel Core i5-4258U,2400 MHz,1,2,4
+1351,654,MacBook Air (Mid 2017),"MacBookAir7,2",Intel Core i5-5350U,1800 MHz,1,2,4
+1325,613,MacBook Air (11-inch Mid 2012),"MacBookAir5,1",Intel Core i7-3667U,2000 MHz,1,2,4
+1315,597,Mac mini (Mid 2011),"Macmini5,2",Intel Core i7-2620M,2700 MHz,1,2,4
+1306,606,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i5-680,3600 MHz,1,2,4
+1306,630,iMac (21.5-inch Late 2015),"iMac16,1",Intel Core i5-5250U,1600 MHz,1,2,4
+1295,580,MacBook (Early 2016),"MacBook9,1",Intel Core m5-6Y54,1200 MHz,1,2,4
+1291,600,MacBook Air (13-inch Mid 2012),"MacBookAir5,2",Intel Core i7-3667U,2000 MHz,1,2,4
+1280,589,MacBook Pro (13-inch Retina Early 2013),"MacBookPro10,2",Intel Core i5-3230M,2600 MHz,1,2,4
+1276,571,Mac mini (Late 2012),"Macmini6,1",Intel Core i5-3210M,2500 MHz,1,2,4
+1267,608,MacBook Air (11-inch Early 2015),"MacBookAir7,1",Intel Core i5-5250U,1600 MHz,1,2,4
+1266,611,MacBook Air (13-inch Early 2015),"MacBookAir7,2",Intel Core i5-5250U,1600 MHz,1,2,4
+1262,578,MacBook Pro (13-inch Mid 2012),"MacBookPro9,2",Intel Core i5-3210M,2500 MHz,1,2,4
+1261,564,Mac mini (Mid 2011),"Macmini5,2",Intel Core i5-2520M,2500 MHz,1,2,4
+1245,402,Mac Pro (Early 2008),"MacPro3,1",Intel Xeon E5462,2800 MHz,1,4,4
+1244,589,MacBook Pro (13-inch Late 2011),"MacBookPro8,1",Intel Core i7-2640M,2800 MHz,1,2,4
+1242,571,MacBook Pro (13-inch Retina),"MacBookPro10,2",Intel Core i5-3210M,2500 MHz,1,2,4
+1234,568,iMac (21.5 inch Late 2011),"iMac12,1",Intel Core i3-2100,3100 MHz,1,2,4
+1231,601,Mac mini (Late 2014),"Macmini7,1",Intel Core i5-4260U,1400 MHz,1,2,4
+1207,568,MacBook Pro (13-inch Early 2011),"MacBookPro8,1",Intel Core i7-2620M,2700 MHz,1,2,4
+1201,556,iMac (21.5-inch Mid 2010),"iMac11,2",Intel Core i5-680,3600 MHz,1,2,4
+1185,574,MacBook Air (11-inch Early 2014),"MacBookAir6,1",Intel Core i5-4260U,1400 MHz,1,2,4
+1175,588,iMac (21.5-inch Mid 2014),"iMac14,4",Intel Core i5-4260U,1400 MHz,1,2,4
+1174,571,MacBook Air (13-inch Early 2014),"MacBookAir6,2",Intel Core i5-4260U,1400 MHz,1,2,4
+1145,556,MacBook Air (11-inch Mid 2013),"MacBookAir6,1",Intel Core i5-4250U,1300 MHz,1,2,4
+1141,554,MacBook Air (13-inch Mid 2013),"MacBookAir6,2",Intel Core i5-4250U,1300 MHz,1,2,4
+1140,598,MacBook (Early 2015),"MacBook8,1",Intel Core M-5Y71,1300 MHz,1,2,4
+1130,517,MacBook Air (13-inch Mid 2012),"MacBookAir5,2",Intel Core i5-3427U,1800 MHz,1,2,4
+1129,505,Mac mini (Mid 2011),"Macmini5,1",Intel Core i5-2415M,2300 MHz,1,2,4
+1110,550,MacBook (Early 2015),"MacBook8,1",Intel Core M-5Y51,1200 MHz,1,2,4
+1101,487,MacBook (Early 2016),"MacBook9,1",Intel Core m3-6Y30,1100 MHz,1,2,4
+1097,506,MacBook Pro (13-inch Late 2011),"MacBookPro8,1",Intel Core i5-2435M,2400 MHz,1,2,4
+1088,496,MacBook Air (11-inch Mid 2012),"MacBookAir5,1",Intel Core i5-3317U,1700 MHz,1,2,4
+1057,483,MacBook Pro (13-inch Early 2011),"MacBookPro8,1",Intel Core i5-2415M,2300 MHz,1,2,4
+1049,478,iMac (27-inch Mid 2010),"iMac11,3",Intel Core i3-550,3200 MHz,1,2,4
+1042,474,iMac (21.5-inch Mid 2010),"iMac11,2",Intel Core i3-550,3200 MHz,1,2,4
+1036,499,MacBook Pro (17-inch Early 2010),"MacBookPro6,1",Intel Core i7-640M,2800 MHz,1,2,4
+1035,522,MacBook (Early 2015),"MacBook8,1",Intel Core M-5Y31,1100 MHz,1,2,4
+1025,493,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i7-640M,2800 MHz,1,2,4
+1019,476,MacBook Pro (17-inch Early 2010),"MacBookPro6,1",Intel Core i7-620M,2670 MHz,1,2,4
+1010,461,iMac (21.5-inch Mid 2010),"iMac11,2",Intel Core i3-540,3070 MHz,1,2,4
+1002,489,MacBook Air (11-inch Mid 2011),"MacBookAir4,1",Intel Core i7-2677M,1800 MHz,1,2,4
+965,470,MacBook Air (13-inch Mid 2011),"MacBookAir4,2",Intel Core i7-2677M,1800 MHz,1,2,4
+962,452,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i7-620M,2670 MHz,1,2,4
+942,451,MacBook Air (13-inch Mid 2011),"MacBookAir4,2",Intel Core i5-2557M,1700 MHz,1,2,4
+921,427,MacBook Pro (17-inch Early 2010),"MacBookPro6,1",Intel Core i5-540M,2530 MHz,1,2,4
+921,425,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i5-540M,2530 MHz,1,2,4
+880,410,MacBook Pro (15-inch Early 2010),"MacBookPro6,2",Intel Core i5-520M,2400 MHz,1,2,4
+797,375,MacBook Air (11-inch Mid 2011),"MacBookAir4,1",Intel Core i5-2467M,1601 MHz,1,2,4
+795,455,iMac (Late 2009),"iMac10,1",Intel Core 2 Duo E8600,3330 MHz,1,2,2
+748,414,iMac (Early 2008),"iMac8,1",Intel Core 2 Duo E8435,3060 MHz,1,2,2
+729,418,iMac (Early 2009),"iMac9,1",Intel Core 2 Duo E8435,3060 MHz,1,2,2
+719,412,MacBook Pro (17-inch Early 2009),"MacBookPro5,2",Intel Core 2 Duo T9800,2930 MHz,1,2,2
+690,397,MacBook Pro (15-inch Mid 2009),"MacBookPro5,3",Intel Core 2 Duo T9900,3060 MHz,1,2,2
+671,380,iMac (Late 2009),"iMac10,1",Intel Core 2 Duo E7600,3060 MHz,1,2,2
+670,402,MacBook Pro (17-inch Mid 2009),"MacBookPro5,2",Intel Core 2 Duo T9900,3060 MHz,1,2,2
+661,386,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9800,2930 MHz,1,2,2
+660,379,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9600,2800 MHz,1,2,2
+655,372,iMac (Early 2009),"iMac9,1",Intel Core 2 Duo E8335,2930 MHz,1,2,2
+649,373,MacBook Pro (17-inch Mid 2009),"MacBookPro5,2",Intel Core 2 Duo T9600,2800 MHz,1,2,2
+639,353,MacBook Pro (17-inch Early 2009),"MacBookPro5,2",Intel Core 2 Duo T9550,2660 MHz,1,2,2
+638,364,iMac (Early 2009),"iMac9,1",Intel Core 2 Duo E8135,2660 MHz,1,2,2
+623,357,MacBook Pro (15-inch Mid 2009),"MacBookPro5,3",Intel Core 2 Duo T9600,2800 MHz,1,2,2
+615,349,iMac (Early 2008),"iMac8,1",Intel Core 2 Duo E8235,2800 MHz,1,2,2
+600,349,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9550,2660 MHz,1,2,2
+582,335,MacBook Pro (13-inch Early 2010),"MacBookPro7,1",Intel Core 2 Duo P8800,2660 MHz,1,2,2
+578,342,MacBook Pro (15-inch Mid 2009),"MacBookPro5,3",Intel Core 2 Duo P8800,2660 MHz,1,2,2
+574,312,Mac mini (Early 2009),"Macmini3,1",Intel Core 2 Duo P8400,2260 MHz,1,2,2
+566,323,MacBook Pro (13-inch Mid 2009),"MacBookPro5,5",Intel Core 2 Duo P8700,2530 MHz,1,2,2
+566,325,Mac mini (Early 2010),"Macmini4,1",Intel Core 2 Duo P8800,2660 MHz,1,2,2
+561,324,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo T9400,2530 MHz,1,2,2
+560,307,MacBook Pro (Early 2008),"MacBookPro4,1",Intel Core 2 Duo T9300,2500 MHz,1,2,2
+558,321,Mac mini (Late 2009),"Macmini3,1",Intel Core 2 Duo P8700,2530 MHz,1,2,2
+557,315,MacBook Pro (15-inch Mid 2009),"MacBookPro5,4",Intel Core 2 Duo P8700,2530 MHz,1,2,2
+556,311,iMac (Mid 2009),"iMac9,1",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+550,312,Mac mini (Late 2009),"Macmini3,1",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+543,313,MacBook Pro (13-inch Mid 2009),"MacBookPro5,5",Intel Core 2 Duo P8400,2260 MHz,1,2,2
+542,307,MacBook (Late 2008),"MacBook5,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+540,308,MacBook (Mid 2010),"MacBook7,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+536,306,MacBook Pro (Late 2008),"MacBookPro5,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+534,307,MacBook Pro (13-inch Early 2010),"MacBookPro7,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+531,323,MacBook Pro (Early 2008),"MacBookPro4,1",Intel Core 2 Duo T9500,2600 MHz,1,2,2
+521,297,MacBook Pro (13-inch Mid 2009),"MacBookPro5,5",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+517,295,MacBook (Late 2009),"MacBook6,1",Intel Core 2 Duo P7550,2260 MHz,1,2,2
+503,294,Mac mini (Early 2010),"Macmini4,1",Intel Core 2 Duo P8600,2400 MHz,1,2,2
+490,282,MacBook Air (13-inch Late 2010),"MacBookAir3,2",Intel Core 2 Duo L9600,2130 MHz,1,2,2
+477,279,MacBook (Early 2009),"MacBook5,2",Intel Core 2 Duo P7450,2130 MHz,1,2,2
+475,263,MacBook Pro (Early 2008),"MacBookPro4,1",Intel Core 2 Duo T8300,2400 MHz,1,2,2
+473,266,iMac (Mid 2009),"iMac9,1",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+467,266,MacBook (Late 2008),"MacBook5,1",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+456,257,MacBook Air (13-inch Late 2010),"MacBookAir3,2",Intel Core 2 Duo L9400,1860 MHz,1,2,2
+449,265,Mac mini (Early 2009),"Macmini3,1",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+422,239,MacBook (Early 2009),"MacBook5,2",Intel Core 2 Duo P7350,2000 MHz,1,2,2
+373,217,MacBook Air (11-inch Late 2010),"MacBookAir3,1",Intel Core 2 Duo U9600,1600 MHz,1,2,2
+332,188,MacBook Air (11-inch Late 2010),"MacBookAir3,1",Intel Core 2 Duo U9400,1400 MHz,1,2,2

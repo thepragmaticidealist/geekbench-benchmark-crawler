@@ -1,0 +1,4 @@
+node_modules
+*.xlsx
+optimised.js
+singlecrawl.js
