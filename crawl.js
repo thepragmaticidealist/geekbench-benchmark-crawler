@@ -35,6 +35,19 @@ async function getSpecs(url) {
             const mcscore = $('.desktop').text().trim().split('\n')[3];
             let tabledata = $('.system-table').text();
             tabledata = tabledata.split('\n').filter(item => item);
+            console.log('tabledata', tabledata, 'table data length',tabledata.length)
+            if (tabledata.includes('GPU')) {
+                const processor = tabledata[1];
+                const freq = tabledata[3];
+                const maxfreq = tabledata[5];
+                const cores = tabledata[7];
+                const threads = tabledata[9];
+                const tdp = tabledata[11];
+                const gpu = tabledata[13];
+                const codename = tabledata[15];
+                const package = tabledata[17];
+                obj = { mcscore, scscore, processor, freq, maxfreq, cores, threads, tdp, gpu, codename, package };
+            } 
             if (tabledata.includes('Maximum Frequency')) {
                 const processor = tabledata[1];
                 const freq = tabledata[3];
@@ -45,7 +58,8 @@ async function getSpecs(url) {
                 const codename = tabledata[13];
                 const package = tabledata[15];
                 obj = { mcscore, scscore, processor, freq, maxfreq, cores, threads, tdp, codename, package };
-            } else {
+            }  
+            if (!(tabledata.includes('Maximum Frequency'))) {
                 const processor = tabledata[1];
                 const freq = tabledata[3];
                 const cores = tabledata[5];
@@ -55,6 +69,10 @@ async function getSpecs(url) {
                 const package = tabledata[13];
                 obj = { mcscore, scscore, processor, freq, cores, threads, tdp, codename, package };
             }
+            if (!(tabledata.includes('TDP')) && !(tabledata.includes('Maximum Frequency'))) {
+                obj = { mcscore, scscore, processor, freq, cores, threads, codename, package };
+            }
+           // Loop through table data, 
             resolve(obj);
         });
     });
@@ -64,7 +82,7 @@ async function main() {
     let data = await getData(url); //3130 entries
     let specs = [];
     console.log('len',data.length);
-    // data = data.slice(0, 3136); // Due to the fact that the website has a limit of the number of requests it can make, we are only going to make 2 requests.
+    data = data.slice(0, 3); // Due to the fact that the website has a limit of the number of requests it can make, we are only going to make 2 requests.
     console.log(data);
     for (const item of data) {
         specs.push(await getSpecs(item));
@@ -75,7 +93,7 @@ async function main() {
 
     // Iterate through result of main and push the data into a csv
     const csvWriter = createCsvWriter({
-        path: 'data.csv',
+        path: 'dat.csv',
         header: [
             {id: 'mcscore', title: 'mcscore'},
             {id: 'scscore', title: 'scscore'},
@@ -85,6 +103,7 @@ async function main() {
             {id: 'cores', title: 'cores'},
             {id: 'threads', title: 'threads'},
             {id: 'tdp', title: 'tdp'},
+            {id: 'gpu', title: 'gpu'},
             {id: 'codename', title: 'codename'},
             {id: 'package', title: 'package'},
         ]
