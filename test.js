@@ -29,7 +29,7 @@ async function getSpecs(url) {
             let tabledata = $('.system-table').text();
 
             tabledata = tabledata.split('\n').filter(item => item);
-            console.log('tabledata', tabledata, 'table data length',tabledata.length)
+            console.log('tabledata', tabledata, 'table data length',tabledata.length);
             
             let processor = tabledata[1];
             obj = { mcscore, scscore, processor };
@@ -39,10 +39,10 @@ async function getSpecs(url) {
                     obj [(tabledata[i]).replace(/\s/g, '').toLowerCase()] = tabledata[i+1];
                 }
             }
-           // Loop through table data,
            console.log('obj', obj, '>>>',(Object.keys(obj)).length);
            const idealkeys = ['processor', 'frequency', 'maximumfrequency', 'cores', 'threads', 'tdp', 'gpu', 'codename', 'package'];
 
+           // 9 and mcscore and scscore
            if ((Object.keys(obj)).length < 11) {
                // Figure out which ones are missing
                // save missing keys and their values as ''
@@ -61,7 +61,7 @@ async function main() {
     let data = await getData(url); //3130 entries
     let specs = [];
     console.log('len',data.length);
-    data = data.slice(3120, 3144); // Due to the fact that the website has a limit of the number of requests it can make, we are only going to make 2 requests.
+    // data = data.slice(3120, 3144); // Due to the fact that the website has a limit of the number of requests it can make, we are only going to make 2 requests.
     console.log(data);
     for (const item of data) {
         specs.push(await getSpecs(item));
